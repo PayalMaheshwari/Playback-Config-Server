@@ -1,0 +1,14 @@
+spring.cloud.config.server.git.uri: https://github.com/PayalMaheshwari/Playback-Config-Server
+
+member:
+  validity:
+    rule: true
+  country:
+    rule: true
+  maxstreamsallowed:
+    rule: true
+
+device:
+  resolution:
+    rule: true
+

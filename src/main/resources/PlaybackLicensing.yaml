@@ -1,0 +1,11 @@
+member:
+  validity:
+    rule: true
+  country:
+    rule: true
+  maxstreamsallowed:
+    rule: true
+
+device:
+  resolution:
+    rule: true
